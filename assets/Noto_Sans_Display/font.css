@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Noto Sans Display";
+    src: url("NotoSansDisplay-VariableFont_wdth,wght.ttf");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Noto Sans Display";
+    src: url("NotoSansDisplay-Italic-VariableFont_wdth,wght.ttf");
+    font-style: italic;
+}
+
+* {
+    font-family: "Noto Sans Display", monospace;
+}

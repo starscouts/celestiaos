@@ -1,0 +1,16 @@
+{
+  "name": "celestiaos",
+  "version": "1.0.0",
+  "description": "An operating system",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Equestria.dev",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^23.0.0",
+    "electron-packager": "^17.1.1",
+    "uuid-v4": "^0.1.0"
+  }
+}

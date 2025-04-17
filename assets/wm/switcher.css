@@ -1,0 +1,11 @@
+.switcher-item {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border-bottom: 2px solid #afd3ff;
+    padding: 2px 5px;
+}
+
+.switcher-item-active {
+    background-color: #ccc;
+}
